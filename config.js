@@ -57,10 +57,10 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#A98ADB",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#E8DBC5",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#6B4B3E",     // Button color (should stand out against the background)
-        buttonHover: "#6B563E",          // Button hover color (slightly lighter than buttonBackground)
+        backgroundStart: "#7D53DE",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#78E3FD",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#D1F5FF",     // Button color (should stand out against the background)
+        buttonHover: "#EEF8FF",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dx2349pv6/video/upload/v1739348417/videoplayback_ivgyuv.webm", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dx2349pv6/raw/upload/v1739353711/watch_scczjo", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)

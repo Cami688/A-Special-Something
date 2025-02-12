@@ -59,7 +59,7 @@ const CONFIG = {
     colors: {
         backgroundStart: "#7D53DE",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#78E3FD",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#D8B95C9",     // Button color (should stand out against the background)
+        buttonBackground: "#A0A7CD",     // Button color (should stand out against the background)
         buttonHover: "#A0A7CD",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#59344F"             // Text color (make sure it's readable!)
     },
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dx2349pv6/raw/upload/v1739354492/j5lqk3d1dlajoyilkbsq", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dx2349pv6/video/upload/v1739355330/y2gbe6calsyl4zkzkbvq.webm", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
